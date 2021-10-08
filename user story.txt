@@ -1,0 +1,17 @@
+                USER STORY
+DONATE:
+-sign up
+-sign in as donate
+-add post
+-edit post
+-delete post
+
+COMMUNITY:
+-sign up
+- sign in as receiver
+-mark broke or satisfied
+
+VOLUNTEER:
+-sign up
+-sign in as volunteer
+-search for nearest posts and receiver
